@@ -28,12 +28,10 @@ body{
     padding:20px;
 }
 .navbar .rightside .links a:hover{
-    background-color: #2C3E50;
-    color: white;
+    background-color: white;
+    color: #2C3E50;
     font-weight: bold;
-    border-radius: 2rem;
-    box-shadow: 2px 2px 3px 3px rgb(238, 231, 234),
-                  2px 2px 5px 4px rgb(238, 231, 234);
+    border-radius: 10px;
 }
 .navbar .rightside button{
     display: none;
@@ -100,4 +98,3 @@ body{
         border-radius:10px ;
     }
 }
-
